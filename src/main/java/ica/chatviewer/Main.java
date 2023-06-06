@@ -7,6 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/**
+ * The Main class of the ChatViewer application.
+ * This class is responsible for starting the application.
+ */
 public class Main extends Application {
 
     public static Stage CurrentStage;
