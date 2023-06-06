@@ -33,6 +33,8 @@ The chat file should follow the specified format:
 - The keywords include "Time", "Name", and "Message".
 
 Example chat file:
+```
 Time:12:34:56
 Name:Adam
 Message:Hello Bob :)
+```
